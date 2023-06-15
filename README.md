@@ -10,7 +10,7 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
-
+# ✔️ Multi Select Container
 Multi Select Container is a Flutter package that provides a customizable container for selecting multiple items from a list. It allows you to easily implement a multi-select feature in your Flutter application.
 
 ## Features

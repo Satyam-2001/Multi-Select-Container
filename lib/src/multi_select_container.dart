@@ -115,6 +115,7 @@ class _MultiSelectContainerState extends State<MultiSelectContainer> {
               ),
               child: widget.child,
             ),
+            if (isSelected && widget.widgetOnTop != null) widget.widgetOnTop!,
           ],
         ),
       ),
