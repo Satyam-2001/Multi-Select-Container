@@ -1,6 +1,6 @@
 name: multi_select_container
 description: Multi Select Container widget provides a convenient and customizable way to implement multi-select functionality in a Flutter application
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/Satyam-2001/Multi-Select-Container
 
 environment:

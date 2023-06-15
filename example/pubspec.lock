@@ -119,10 +119,10 @@ packages:
     dependency: "direct main"
     description:
       name: multi_select_container
-      sha256: b73f96cef935c52b879155219f98c3d0f95dd6dda7b0b40abc009c3219a6becc
+      sha256: c1c0f272f78eea2fbc9ab4a628773f6081c3b09403c3729998cf6bd304b16b70
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1"
+    version: "0.0.2"
   path:
     dependency: transitive
     description:

@@ -66,7 +66,7 @@ class _MyExamplePageState extends State<MyExamplePage> {
                 MultiSelectContainer.icon(
                   tag: i,
                   elevation: 4,
-                  icon: const Icon(Icons.check),
+                  icon: const Icon(Icons.check, size: 40),
                   controller: controller,
                   child:
                       Image.network('https://picsum.photos/400/500?random=$i'),
